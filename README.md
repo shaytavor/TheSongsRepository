@@ -17,3 +17,5 @@ A repository of my compositions, open for use
 shay.tavor@gmail.com
 ## טבלת השירים
 להלן טבלת השירים, היא תתעדכן באופן קבוע. לחיצה על שם השיר תוביל לדף השיר עם כל הפרטים.
+
+1. [ריקוד](1-Dance)
