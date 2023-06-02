@@ -1,8 +1,11 @@
 # ריקוד - אקורדים
-**בית**
-Emb / Emb / Emb / Emb /
+**verse**
+
+Emb / Emb / Emb / Emb /\
 Dbm / Dbm / Emb / Emb /
-**פזמון**
-F / Bbm / Eb / Ab /
+
+**chorus**
+
+F / Bbm / Eb / Ab /\
 Dmb / Emb / Ab / Dmb D /
 
